@@ -1,8 +1,8 @@
+![WOW cool thing](https://github.com/RTXT25/RTXT25/blob/main/standard.gif)
+
 Wow look words cool
 
 pronouns: idiot,stupid
-
-
 
 <!--
 **RTXT25/RTXT25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
