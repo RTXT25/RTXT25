@@ -6,6 +6,8 @@ oh yeah i do stuff idk what though
 
 pronouns: idiot,stupid
 
+stupidity lever : 100%
+
 <!--
 **RTXT25/RTXT25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
