@@ -1,4 +1,4 @@
-<p style="text-align: center;"> ![WOW cool thing](https://github.com/RTXT25/RTXT25/blob/main/standard.gif)
+<p style="text-align: center;"> [WOW cool thing](https://github.com/RTXT25/RTXT25/blob/main/standard.gif)
 
 Wow look words cool
 
