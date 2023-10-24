@@ -1,5 +1,5 @@
 ![WOW cool thing](https://github.com/RTXT25/RTXT25/blob/main/standard.gif)
-<p style="text-align: center;">
+
 Wow look words cool
 
 oh yeah i do stuff idk what though. Beans and other stuff. I Mek BAD StoFf
@@ -7,7 +7,7 @@ oh yeah i do stuff idk what though. Beans and other stuff. I Mek BAD StoFf
 pronouns: idiot,stupid
 
 stupidity level : 100%
-</p>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RTXT25&show_icons=true&theme=merko)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RTXT25&layout=compact&theme=merko)
