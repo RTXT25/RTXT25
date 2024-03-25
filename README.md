@@ -1,12 +1,6 @@
 ![WOW cool thing](https://github.com/RTXT25/RTXT25/blob/main/standard.gif)
 
-Wow look words cool
-
-oh yeah i do stuff idk what though. Beans and other stuff. I Mek BAD StoFf
-
-pronouns: idiot,stupid
-
-stupidity level : 100%
+Idiot on the internet who make thing. 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RTXT25&show_icons=true&theme=merko)
 
