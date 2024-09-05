@@ -10,9 +10,7 @@ Idiot on the internet who make thing.
 - 📫 How to reach me: Guess
 - ⚡ Fun fact: Trees are not always green
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RTXT25&show_icons=true&theme=merko)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RTXT25&layout=compact&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RTXT25&show_icons=true&theme=merko) [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RTXT25&layout=compact&theme=merko)
 
 
 <!--
