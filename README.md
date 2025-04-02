@@ -7,7 +7,7 @@ Idiot on the internet who make thing.
 - 👯 I’m looking to collaborate on nothing
 - 🤔 I’m looking for help with Everything
 - 💬 Ask me about Splatoon
-- 📫 How to reach me: Guess
+- 📫 How to reach me: Ask
 - ⚡ Fun fact: Trees are not always green
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RTXT25&show_icons=true&theme=merko) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RTXT25&layout=compact&theme=merko)
